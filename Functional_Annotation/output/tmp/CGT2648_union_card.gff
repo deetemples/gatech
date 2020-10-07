@@ -1,0 +1,8 @@
+NODE_8_length_81920_cov_9.510459	.	.	39524	40158	.	.	.	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; fusidic acid,antibiotic efflux,resistance-nodulation-cell division (RND) antibiotic efflux pump
+NODE_8_length_81920_cov_9.510459	.	.	40250	41355	.	.	.	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; fusidic acid,antibiotic efflux,resistance-nodulation-cell division (RND) antibiotic efflux pump
+NODE_8_length_81920_cov_9.510459	.	.	41353	44477	.	.	.	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; fusidic acid,antibiotic efflux,resistance-nodulation-cell division (RND) antibiotic efflux pump
+NODE_8_length_81920_cov_9.510459	.	.	44468	45948	.	.	.	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; fusidic acid,antibiotic efflux,resistance-nodulation-cell division (RND) antibiotic efflux pump
+NODE_11_length_55196_cov_14.701356	.	.	33436	34211	.	.	.	cephalosporin; penam,antibiotic inactivation,OXA beta-lactamase
+NODE_51_length_358_cov_0.883117	.	.	36	337	.	.	.	cephalosporin; penam,antibiotic inactivation,OXA beta-lactamase
+NODE_34_length_2845_cov_18.444444	.	.	375	2296	.	.	.	tetracycline antibiotic,antibiotic target protection,tetracycline-resistant ribosomal protection protein
+NODE_3_length_165451_cov_9.527443	.	.	115746	118339	.	.	.	fluoroquinolone antibiotic,antibiotic target alteration,fluoroquinolone resistant gyrA

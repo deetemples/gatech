@@ -1,0 +1,6 @@
+NODE_4_length_117539_cov_9.969267:27025-27184	159	1	159	622	780	1.04e-80	294	VFG001983(gb|NP_282073) (pebA) bifunctional adhesin/ABC transporter aspartate/glutamate-binding protein [PEB1 (VF0327)] [Campylobacter jejuni subsp. jejuni NCTC 11168]
+NODE_1_length_328860_cov_9.947610:34011-35313	1302	1	1302	1302	1	0.0	2405	VFG011946(gb|NP_282174) (flgR) sigma-54 associated transcriptional activator [Pse5Ac7Ac, Pse5Ac7Am, Pse8OAc, Pse5Am7AcGlnAc (AI151)] [Campylobacter jejuni subsp. jejuni NCTC 11168]
+NODE_2_length_235522_cov_9.957103:43872-43986	111	1	111	1	111	3.38e-54	206	VFG001909(gb|NP_281732) (fliD) flagellar capping protein FliD [Flagella (VF0114)] [Campylobacter jejuni subsp. jejuni NCTC 11168]
+NODE_2_length_235522_cov_9.957103:45812-46199	387	1	387	1	387	0.0	715	VFG001910(gb|NP_281733) (fliS) flagellar protein FliS [Flagella (VF0114)] [Campylobacter jejuni subsp. jejuni NCTC 11168]
+NODE_14_length_35283_cov_9.973044:16097-16982	885	1	885	1	885	0.0	1635	VFG001890(gb|NP_281264) (flgD) flagellar basal-body rod modification protein FlgD [Flagella (VF0114)] [Campylobacter jejuni subsp. jejuni NCTC 11168]
+NODE_14_length_35283_cov_9.973044:16985-18623	1638	1	1638	1	1638	0.0	3025	VFG001891(gb|NP_281265) (flgE) flagellar hook protein FlgE [Flagella (VF0114)] [Campylobacter jejuni subsp. jejuni NCTC 11168]

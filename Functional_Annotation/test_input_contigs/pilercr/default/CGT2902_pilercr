@@ -1,0 +1,47 @@
+pilercr v1.06
+By Robert C. Edgar
+
+CGT2902.fasta: 1 putative CRISPR arrays found.
+
+
+
+DETAIL REPORT
+
+
+
+Array 1
+>NODE_4_length_114091_cov_5.688191
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                                  Spacer
+==========  ======  ======  ======  ==========    ====================================    ======
+     75593      36    97.2      30  CACTAGGGTT    -...................................    TATTACAAGGGGTTATTTTAAATGCGTAGA
+     75659      36   100.0      30  AATGCGTAGA    ....................................    CAAGCGATGCTATTATAAATAATGCAATAA
+     75725      36   100.0      30  AATGCAATAA    ....................................    ATAATAATCAACAACTCGCCTGTAAATATT
+     75791      36   100.0      30  TGTAAATATT    ....................................    AAAGATAATATTTCGCTATCAACAGCTAAA
+     75857      36   100.0      30  AACAGCTAAA    ....................................    TTTGGGTATAATGCTAAATTAAGTGTAGAA
+     75923      36   100.0      30  AAGTGTAGAA    ....................................    TACAGGGACACTAATATAAAAGAATTAATC
+     75989      36   100.0      30  AGAATTAATC    ....................................    TAATTAAAACAATACCTAGTGAAATTATAG
+     76055      36   100.0          GAAATTATAG    ....................................    AGATATTTAC
+==========  ======  ======  ======  ==========    ====================================
+         8      36              30                GTTTTAGTCCCTTTTTAAATTTCTTTATGGTAAAAT
+
+
+SUMMARY BY SIMILARITY
+
+
+
+Array          Sequence    Position      Length  # Copies  Repeat  Spacer  +  Consensus
+=====  ================  ==========  ==========  ========  ======  ======  =  =========
+    1  NODE_4_length_11       75593         497         8      36      30  +  GTTTTAGTCCCTTTTTAAATTTCTTTATGGTAAAAT
+
+
+
+SUMMARY BY POSITION
+
+
+
+>NODE_4_length_114091_cov_5.688191
+
+Array          Sequence    Position      Length  # Copies  Repeat  Spacer    Distance  Consensus
+=====  ================  ==========  ==========  ========  ======  ======  ==========  =========
+    1  NODE_4_length_11       75593         497         8      36      30              GTTTTAGTCCCTTTTTAAATTTCTTTATGGTAAAAT

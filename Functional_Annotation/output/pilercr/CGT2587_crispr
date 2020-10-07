@@ -1,0 +1,47 @@
+pilercr v1.06
+By Robert C. Edgar
+
+/home/projects/group-b/gene_prediction/contigs_file/CGT2587.fasta: 1 putative CRISPR arrays found.
+
+
+
+DETAIL REPORT
+
+
+
+Array 1
+>NODE_4_length_114099_cov_4.769663
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                                  Spacer
+==========  ======  ======  ======  ==========    ====================================    ======
+     75590      36    97.2      30  CACTAGGGTT    -...................................    TATTACAAGGGGTTATTTTAAATGCGTAGA
+     75656      36   100.0      30  AATGCGTAGA    ....................................    CAAGCGATGCTATTATAAATAATGCAATAA
+     75722      36   100.0      30  AATGCAATAA    ....................................    ATAATAATCAACAACTCGCCTGTAAATATT
+     75788      36   100.0      30  TGTAAATATT    ....................................    AAAGATAATATTTCGCTATCAACAGCTAAA
+     75854      36   100.0      30  AACAGCTAAA    ....................................    TTTGGGTATAATGCTAAATTAAGTGTAGAA
+     75920      36   100.0      30  AAGTGTAGAA    ....................................    TACAGGGACACTAATATAAAAGAATTAATC
+     75986      36   100.0      30  AGAATTAATC    ....................................    TAATTAAAACAATACCTAGTGAAATTATAG
+     76052      36   100.0          GAAATTATAG    ....................................    AGATATTTAC
+==========  ======  ======  ======  ==========    ====================================
+         8      36              30                GTTTTAGTCCCTTTTTAAATTTCTTTATGGTAAAAT
+
+
+SUMMARY BY SIMILARITY
+
+
+
+Array          Sequence    Position      Length  # Copies  Repeat  Spacer  +  Consensus
+=====  ================  ==========  ==========  ========  ======  ======  =  =========
+    1  NODE_4_length_11       75590         497         8      36      30  +  GTTTTAGTCCCTTTTTAAATTTCTTTATGGTAAAAT
+
+
+
+SUMMARY BY POSITION
+
+
+
+>NODE_4_length_114099_cov_4.769663
+
+Array          Sequence    Position      Length  # Copies  Repeat  Spacer    Distance  Consensus
+=====  ================  ==========  ==========  ========  ======  ======  ==========  =========
+    1  NODE_4_length_11       75590         497         8      36      30              GTTTTAGTCCCTTTTTAAATTTCTTTATGGTAAAAT
