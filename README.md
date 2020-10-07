@@ -1,2 +1,8 @@
-# gatech
-Codes written throughout time at GT
+# deetemples/gatech
+Updated: 10/7/2020
+
+Owner: Danielle Temples
+MS Bioinformatics Student at Georgia Tech
+
+Codes written throughout my time at GT (2016-2020)
+- Python, SQL, Java, Perl
