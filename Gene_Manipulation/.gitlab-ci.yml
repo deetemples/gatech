@@ -1,0 +1,17 @@
+variables: {'TERM' : 'xterm'}
+
+stages:
+  - kmer_output_test
+  - join_output_test
+
+Kmer Output Checks:
+    stage: kmer_output_test
+    script:
+    - git clone gitlab@programming2019.biosci.gatech.edu:autograder/week-8.git
+    - bats week-8/kmer_tests
+
+Join Output Checks:
+    stage: join_output_test
+    script:
+    - git clone gitlab@programming2019.biosci.gatech.edu:autograder/week-8.git
+    - bats week-8/join_output_test

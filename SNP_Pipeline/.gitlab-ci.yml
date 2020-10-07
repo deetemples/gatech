@@ -1,0 +1,38 @@
+variables: {'TERM' : 'xterm'}
+
+stages:
+  - prereq_check
+  - shellcheck
+  - test_bash
+  - test_output
+
+
+Prerequisites:
+  stage: prereq_check
+  script:
+  - which shellcheck
+  - shellcheck -V
+  - which bwa
+  - which bcftools
+  - which samtools
+  - which java
+  - which tabix
+
+Shell format check:
+    stage: shellcheck
+    script:
+    - shellcheck -Calways snp_pipeline.bash
+    allow_failure: true
+Function checks:    
+    stage: test_bash
+    script:
+    - git clone gitlab@programming2019.biosci.gatech.edu:autograder/week-6.git
+    - sed -i 's/^main "\$\@"$/#main/' snp_pipeline.bash
+    - bats week-6/script_tests
+
+Output checks:
+    stage: test_output
+    script:
+    - git clone gitlab@programming2019.biosci.gatech.edu:autograder/week-6.git
+    - bats week-6/output_tests
+

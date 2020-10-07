@@ -1,0 +1,10 @@
+variables: {'TERM' : 'xterm'}
+
+stages:
+  - output_test
+
+Output Checks:
+    stage: output_test
+    script:
+    - git clone gitlab@programming2019.biosci.gatech.edu:autograder/week-10.git
+    - bats week-10/output_test
