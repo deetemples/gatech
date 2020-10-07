@@ -1,0 +1,6 @@
+NODE_1_length_229840_cov_5.825211	.	.	180233	180867	.	.	.	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; fusidic acid,antibiotic efflux,resistance-nodulation-cell division (RND) antibiotic efflux pump
+NODE_1_length_229840_cov_5.825211	.	.	180960	182065	.	.	.	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; fusidic acid,antibiotic efflux,resistance-nodulation-cell division (RND) antibiotic efflux pump
+NODE_1_length_229840_cov_5.825211	.	.	182063	185187	.	.	.	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; fusidic acid,antibiotic efflux,resistance-nodulation-cell division (RND) antibiotic efflux pump
+NODE_1_length_229840_cov_5.825211	.	.	185178	186658	.	.	.	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; fusidic acid,antibiotic efflux,resistance-nodulation-cell division (RND) antibiotic efflux pump
+NODE_22_length_6879_cov_5.384887	.	.	1	890	.	.	.	aminoglycoside antibiotic,antibiotic inactivation,APH(2'')
+NODE_3_length_176265_cov_5.371592	.	.	94713	97306	.	.	.	fluoroquinolone antibiotic,antibiotic target alteration,fluoroquinolone resistant gyrA

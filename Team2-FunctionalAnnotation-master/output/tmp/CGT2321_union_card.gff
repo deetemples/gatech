@@ -1,0 +1,4 @@
+NODE_2_length_287907_cov_17.777268	.	.	41059	41834	.	.	.	cephalosporin; penam,antibiotic inactivation,OXA beta-lactamase
+NODE_19_length_6871_cov_15.498675	.	.	1	878	.	.	.	aminoglycoside antibiotic,antibiotic inactivation,APH(2'')
+NODE_43_length_266_cov_9.687831	.	.	1	266	.	.	.	tetracycline antibiotic,antibiotic target protection,tetracycline-resistant ribosomal protection protein
+NODE_1_length_347839_cov_15.517690	.	.	94727	97320	.	.	.	fluoroquinolone antibiotic,antibiotic target alteration,fluoroquinolone resistant gyrA

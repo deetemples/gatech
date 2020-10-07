@@ -1,0 +1,65 @@
+pilercr v1.06
+By Robert C. Edgar
+
+/home/projects/group-b/gene_prediction/contigs_file/CGT2448.fasta: 2 putative CRISPR arrays found.
+
+
+
+DETAIL REPORT
+
+
+
+Array 1
+>NODE_1_length_183064_cov_20.258281
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                                  Spacer
+==========  ======  ======  ======  ==========    ====================================    ======
+      6690      36   100.0      30  GTAAATATCT    ....................................    AATTAGATTAATAACTTCGATATCATTATT
+      6756      36   100.0      30  TATCATTATT    ....................................    ATTTGCTATAAACTCATTTATTTCAGTGCA
+      6822      36   100.0      30  TTTCAGTGCA    ....................................    TGGTTGTTTTGTTCAATCAAAAACAGGTGC
+      6888      36   100.0      30  AAACAGGTGC    ....................................    AAGCCAACTTGATGGGTTACTAATAAATCA
+      6954      36    97.2          TAATAAATCA    ...................................A    CCCTAGTGG
+==========  ======  ======  ======  ==========    ====================================
+         5      36              30                ATTTTACCATAAAGAAATTTAAAAAGGGACTAAAAC
+
+
+Array 2
+>NODE_29_length_7255_cov_19.992756
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                    Spacer
+==========  ======  ======  ======  ==========    ======================    ======
+      7045      22   100.0      53  AAAATATAAA    ......................    ATTATATTTATGTCAGCAAAATCAGCATACAATCACTCATAAGTTATTAAAAA
+      7120      22   100.0      72  TTATTAAAAA    ......................    TTGACATAAATAGAATAGTTTTTGACATTTTTTCGGAAACCCCATATGGAAAATAGGGACTTTAAAAGATAC
+      7214      22    95.5          TAAAAGATAC    .....................A    CTAAATTCT
+==========  ======  ======  ======  ==========    ======================
+         3      22              62                ATTGACATAAATAGAATAGTTT
+
+
+SUMMARY BY SIMILARITY
+
+
+
+Array          Sequence    Position      Length  # Copies  Repeat  Spacer  +  Consensus
+=====  ================  ==========  ==========  ========  ======  ======  =  =========
+    1  NODE_1_length_18        6690         300         5      36      30  +  ATTTTACCATAAAGAAATTTAAAAAGGGACTAAAAC
+
+    2  NODE_29_length_7        7045         191         3      22      62  +  ATTGACATAAATAGAATAGTTT
+
+
+
+SUMMARY BY POSITION
+
+
+
+>NODE_1_length_183064_cov_20.258281
+
+Array          Sequence    Position      Length  # Copies  Repeat  Spacer    Distance  Consensus
+=====  ================  ==========  ==========  ========  ======  ======  ==========  =========
+    1  NODE_1_length_18        6690         300         5      36      30              ATTTTACCATAAAGAAATTTAAAAAGGGACTAAAAC
+
+
+>NODE_29_length_7255_cov_19.992756
+
+Array          Sequence    Position      Length  # Copies  Repeat  Spacer    Distance  Consensus
+=====  ================  ==========  ==========  ========  ======  ======  ==========  =========
+    2  NODE_29_length_7        7045         191         3      22      62              ATTGACATAAATAGAATAGTTT

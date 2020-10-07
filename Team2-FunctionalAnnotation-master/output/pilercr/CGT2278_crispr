@@ -1,0 +1,44 @@
+pilercr v1.06
+By Robert C. Edgar
+
+/home/projects/group-b/gene_prediction/contigs_file/CGT2278.fasta: 1 putative CRISPR arrays found.
+
+
+
+DETAIL REPORT
+
+
+
+Array 1
+>NODE_1_length_182444_cov_4.732660
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                                 Spacer
+==========  ======  ======  ======  ==========    ===================================    ======
+    175523      35   100.0      31  CCACTAGGGT    ...................................    TGATTTATTAGTAACCCATCAAGTTGGCTTG
+    175589      35   100.0      31  AGTTGGCTTG    ...................................    GCACCTGTTTTTGATTGAACAAAACAACCAG
+    175655      35   100.0      31  AAACAACCAG    ...................................    TGCACTGAAATAAATGAGTTTATAGCAAATG
+    175721      35   100.0      31  ATAGCAAATG    ...................................    AATAATGATATCGAAGTTATTAATCTAATTG
+    175787      35   100.0          AATCTAATTG    ...................................    AGATATTTACC
+==========  ======  ======  ======  ==========    ===================================
+         5      35              31                TTTTAGTCCCTTTTTAAATTTCTTTATGGTAAAAT
+
+
+SUMMARY BY SIMILARITY
+
+
+
+Array          Sequence    Position      Length  # Copies  Repeat  Spacer  +  Consensus
+=====  ================  ==========  ==========  ========  ======  ======  =  =========
+    1  NODE_1_length_18      175523         299         5      35      31  +  TTTTAGTCCCTTTTTAAATTTCTTTATGGTAAAAT
+
+
+
+SUMMARY BY POSITION
+
+
+
+>NODE_1_length_182444_cov_4.732660
+
+Array          Sequence    Position      Length  # Copies  Repeat  Spacer    Distance  Consensus
+=====  ================  ==========  ==========  ========  ======  ======  ==========  =========
+    1  NODE_1_length_18      175523         299         5      35      31              TTTTAGTCCCTTTTTAAATTTCTTTATGGTAAAAT
