@@ -1,6 +1,0 @@
-NODE_10_length_53790_cov_8.115592	.	.	31016	31764	.	.	.	cephalosporin; penam,antibiotic inactivation,OXA beta-lactamase
-NODE_7_length_61606_cov_7.908245	.	.	39531	40165	.	.	.	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; fusidic acid,antibiotic efflux,resistance-nodulation-cell division (RND) antibiotic efflux pump
-NODE_7_length_61606_cov_7.908245	.	.	40257	41362	.	.	.	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; fusidic acid,antibiotic efflux,resistance-nodulation-cell division (RND) antibiotic efflux pump
-NODE_7_length_61606_cov_7.908245	.	.	41360	44484	.	.	.	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; fusidic acid,antibiotic efflux,resistance-nodulation-cell division (RND) antibiotic efflux pump
-NODE_7_length_61606_cov_7.908245	.	.	44475	45955	.	.	.	macrolide antibiotic; fluoroquinolone antibiotic; cephalosporin; fusidic acid,antibiotic efflux,resistance-nodulation-cell division (RND) antibiotic efflux pump
-NODE_1_length_328819_cov_7.969284	.	.	289872	292465	.	.	.	fluoroquinolone antibiotic,antibiotic target alteration,fluoroquinolone resistant gyrA
